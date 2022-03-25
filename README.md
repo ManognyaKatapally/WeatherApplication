@@ -8,7 +8,7 @@ This application lets you know the weather of any city. Please follow the below 
 * request 
 * ejs 
 
-* This can be done in one step with the below command.
+#### This can be done in one step with the below command.
 * npm i express dotenv body-parser request ejs 
 
 
