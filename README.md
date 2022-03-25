@@ -13,8 +13,8 @@ This application lets you know the weather of any city. Please follow the below 
 
 
 ### Step 2: Add the API Key
-* Please sign in add the weather website ( https://openweathermap.org/ )
-* Under the My API keys, Find you API key and add it in the . env file.
+* Please sign in/sign up to the weather website ( https://openweathermap.org/ )
+* Under the "My API keys", Find your API key and add it in the . env file.
 
 ### Step 3: Launch the application with below command.
  npm start
